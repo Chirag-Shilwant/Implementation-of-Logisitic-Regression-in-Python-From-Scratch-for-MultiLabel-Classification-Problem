@@ -1,4 +1,4 @@
-# Implementation-of-Logisitic-Regression-in-Python-From-Scratch-for-Multiclass-Classification-Problem-
+# Implementation-of-Logisitic-Regression-in-Python-From-Scratch-for-Multiclass-Classification-Problem
 
 ## Dataset link : https://iiitaphyd-my.sharepoint.com/:f:/g/personal/apurva_jadhav_students_iiit_ac_in/Eictt5_qmoxNqezgQQiMWeIBph4sxlfA6jWAJNPnV2SF9Q?e=mQmYN0
 
